@@ -29,11 +29,11 @@ Este é um projeto simples de sorteio de amigo secreto, onde os usuários podem 
 # 📌 Estrutura do projeto
 
 📁 amigo-secreto
-├── 📄 index.html   # Estrutura principal do site.
-├── 📄 style.css    # Estilos visuais.
-├── 📄 app.js       # Lógica do sorteio.
-├── 📁 assets       # Imagens e ícones.
-└── 📄 README.md    # Documentação do projeto.
+├── 📄 index.html   
+├── 📄 style.css   
+├── 📄 app.js       
+├── 📁 assets       
+└── 📄 README.md   
 
 # 🔍 Exemplo de uso
 
