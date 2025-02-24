@@ -29,6 +29,7 @@ Este é um projeto simples de sorteio de amigo secreto, onde os usuários podem 
 # 📌 Estrutura do projeto
 
 📁 amigo-secreto
+
 ├── 📄 index.html   
 ├── 📄 style.css   
 ├── 📄 app.js       
